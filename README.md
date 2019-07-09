@@ -1,0 +1,2 @@
+ - Concept was to show how a UICollectionView can be used inside a UITableViewCell and how it could be updated using a delegate method.
+ - Sample project shows icons inside a cell that can scroll in horizontal direction.
